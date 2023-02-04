@@ -1,5 +1,5 @@
 """
-    prueba1
+    dia1
     Nombre: Luz Amairani Martinez Monroy
     Fecha: 02/02/2023
     Descripcion: operaciones aridmeticas dentro del print 
