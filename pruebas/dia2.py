@@ -7,6 +7,6 @@
 """
 
 horas = float(input("Introduce tus horas de trabajo: "))
-costo = float(input("Introduce lo que cobras por hora: "))
-paga = horas * costo
+pago = float(input("Introduce lo que cobras por hora: "))
+paga = horas * pago
 print("Tu paga es", paga)
